@@ -1,0 +1,5 @@
+Case/Lab Identifier: SBT-DF203-Lab1-Kafayat-Animashawun
+Trainee Name: Kafayat Animashawun
+Date: 08 September 2026
+Environment: Kali Linux VM
+Purpose: Controlled plaintext HTTP traffic analysis
